@@ -17,8 +17,6 @@ https://github.com/nodeca/pako/blob/main/LICENSE
  * @license  MIT
  */
 
- 
-
 /*!
 * ZRender, a high performance 2d drawing library.
 *
